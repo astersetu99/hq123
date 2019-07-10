@@ -41,7 +41,51 @@ bot.on('message', message =>{
                 if(msg === prefix + "c0" && message.channel.id === "595639586726740049"){
                 message.channel.send('========QUESTION NO. 10========') // Sends a message to the channel, with the content
             }
-        
+        if(msg === prefix + "11" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 11========') // Sends a message to the channel, with the content
+        }
+            if(msg === prefix + "12" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 12========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "13" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 13========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "14" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 14========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "15" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 15========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "16" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 16========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "17" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 17========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "18" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 18========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "19" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 19========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "20" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 20========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "21" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 21========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "22" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 22========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "23" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 23========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "24" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 24========') // Sends a message to the channel, with the content
+            }
+            if(msg === prefix + "25" && message.channel.id === "595639586726740049"){
+                message.channel.send('========QUESTION NO. 25========') // Sends a message to the channel, with the content
+            }
            
         }
     }
