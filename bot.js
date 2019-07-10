@@ -11,7 +11,7 @@ bot.on('message', message =>{
 
     if(message.author.id != "598568697866485774" && message.channel.id === "595639586726740049"){
         if(msg.startsWith('.', 0)){
-            if(msg === prefix + "1" && message.channel.id === "595639769904447502"){
+            if(msg === prefix + "1" && message.channel.id === "595639586726740049"){
                 message.channel.send('========QUESTION NO. 1========') // Sends a message to the channel, with the content
             }
                 if(msg === prefix + "2" && message.channel.id === "595639586726740049"){
