@@ -38,7 +38,7 @@ bot.on('message', message =>{
                 if(msg === prefix + "9" && message.channel.id === "595639586726740049"){
                 message.channel.send('========QUESTION NO. 9========') // Sends a message to the channel, with the content
             }
-                if(msg === prefix + "c0" && message.channel.id === "595639586726740049"){
+                if(msg === prefix + "10" && message.channel.id === "595639586726740049"){
                 message.channel.send('========QUESTION NO. 10========') // Sends a message to the channel, with the content
             }
         if(msg === prefix + "11" && message.channel.id === "595639586726740049"){
